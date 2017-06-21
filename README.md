@@ -1,10 +1,9 @@
 # Trainee project: typography
 
-*Author*: [Lukas](https://github.com/lsiebe)
-
-Info: [wiki](https://github.com/plantamedium-lab/typography/wiki) (soon)
-
-Language: german
+- Author: [Lukas](https://github.com/lsiebe)
+- Info: [wiki](https://github.com/plantamedium-lab/typography/wiki) (soon)
+- Language: german
+- URL: https://plantamedium-lab.github.io/typography/
 
 ## Source as picture frame
 
