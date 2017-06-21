@@ -4,6 +4,12 @@
 
 Info: [wiki](https://github.com/plantamedium-lab/typography/wiki) (soon)
 
+Language: german
+
+## Preview
+
+[![picture frame](https://picture-frame-preview.jpg)]
+
 ---
 
 Based on: ZURB [Foundation for Sites](https://github.com/zurb/foundation-sites). It has a Gulp-powered build system with these features
