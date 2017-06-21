@@ -6,9 +6,9 @@ Info: [wiki](https://github.com/plantamedium-lab/typography/wiki) (soon)
 
 Language: german
 
-## Preview
+## Source as picture frame
 
-[![picture frame](https://picture-frame-preview.jpg)]
+[![picture frame](https://raw.githubusercontent.com/plantamedium-lab/typography/master/picture-frame-preview.jpg)]
 
 ---
 
