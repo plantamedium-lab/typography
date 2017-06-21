@@ -1,4 +1,4 @@
 .idea
-dist
+dist/styleguide.html
 node_modules
 bower_components
